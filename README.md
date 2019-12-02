@@ -88,14 +88,14 @@ Submarine Rush dibuat dengan bantuan program Unity sebagai game engine. Kami men
 
 ## Screenshot In-Game
 mulai
-(jalan.jpg)
+![Screenshot](jalan.jpg)
 
 Bergeser
-(bergeser.jpg)
+![Screenshot](bergeser.jpg)
 
 
 Menumbur Ranjau
-(ranjau.jpg)
+![Screenshot](ranjau.jpg)
 
 Game Over
-(mengulang.jpg)
+![Screenshot](mengulang.jpg)

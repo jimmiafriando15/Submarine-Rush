@@ -84,6 +84,14 @@ Submarine Rush dibuat dengan bantuan program Unity sebagai game engine. Kami men
     <td>
       Mengetik script menggunakan bahasa C#
     </td>
+    </tr>
+    <tr>
+      <td>
+      Prosesor
+    </td>
+    <td>
+    	Intel Core i7-7700HQ (6M Cache, up to 3.80 GHz)
+    </td>
 </table>
 
 ## Screenshot In-Game

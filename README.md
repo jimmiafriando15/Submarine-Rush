@@ -25,6 +25,9 @@ Game dapat dimainkan dengan 3 button yaitu up, down, dan R. Kapal selam akan ber
 ### Teknologi
 Submarine Rush dibuat dengan bantuan program Unity sebagai game engine. Kami menggunakan beberapa fitur seperti Rigid Body sebagai identitas player, beberapa script juga dibuat untuk menyesuaikan perilaku game agar sesuai dengan rancangan yang diinginkan. 
 
+### linkproject
+https://drive.google.com/open?id=1Y6NwORgPGO7Ko58sI_oOzc80dgpUHTsw
+
 
 
 ## Developer

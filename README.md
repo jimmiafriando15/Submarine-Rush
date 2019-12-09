@@ -3,7 +3,7 @@
 Game Submarine Rush yang bertujuan untuk memenuhi tugas akhir mata kuliah Grafika Komputer.
 
 ## Storyline
-Aplikasi ini bernama Submarine Rush, permainan kategori action dimana kapal selam yang terjebak di palung terdalam dilautan dan harus keluar namun terhalang ranjau laut yang membuat anda harus menghidar dari ranjau laut tersebut sampai keluar.
+Aplikasi ini bernama Submarine Rush, permainan kategori action dimana kapal selam yang terjebak di palung terdalam dilautan dan harus keluar namun terhalang ranjau laut yang membuat anda harus menghidar dari ranjau laut tersebut.
 
 
 ## Gameplay

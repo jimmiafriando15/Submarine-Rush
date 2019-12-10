@@ -27,8 +27,7 @@ Submarine Rush dibuat dengan bantuan program Unity sebagai game engine. Kami men
 
 ### linkproject
 https://drive.google.com/open?id=1Y6NwORgPGO7Ko58sI_oOzc80dgpUHTsw
-
-
+(semua sudah terupload di repo ini)
 
 ## Developer
 <table>
@@ -99,14 +98,17 @@ https://drive.google.com/open?id=1Y6NwORgPGO7Ko58sI_oOzc80dgpUHTsw
 
 ## Screenshot In-Game
 mulai
+
 ![Screenshot](jalan.jpg)
 
 Bergeser
+
 ![Screenshot](bergeser.jpg)
 
-
 Menumbur Ranjau
+
 ![Screenshot](ranjau.jpg)
 
 Game Over
+
 ![Screenshot](mengulang.jpg)
